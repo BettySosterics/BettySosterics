@@ -1,7 +1,7 @@
 # Hey folks! 👋🏼
 
-My name is Betty and I'm currently enrolled in a Full Stack Developer bootcamp in Vienna. 🚀 </br>
-My current goal is to build a Next.js web application as my final project. 📱
+My name is Betty and I'm currently enrolled in a Web Development bootcamp in Vienna. 🚀 </br>
+I specialize as a full-stack developer with a preference for front-end technologies. My current aim is to persistently enhance my learning and extend my proficiency in the tech domain.
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) </br>
