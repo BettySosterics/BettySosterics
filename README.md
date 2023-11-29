@@ -1,6 +1,6 @@
 # Hey folks! 👋🏼
 
-My name is Betty and I'm currently enrolled in a Web Development bootcamp in Vienna. 🚀 </br>
+My name is Betty, a full-stack developer fresh out of a Web Development bootcamp in Vienna. 🚀 </br>
 I specialize as a full-stack developer with a preference for front-end technologies. My current aim is to persistently enhance my learning and extend my proficiency in the tech domain.
 
 # 💻 Tech Stack:
