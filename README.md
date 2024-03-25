@@ -21,6 +21,3 @@ Experienced working with React, Next.js, React Native, Expo, PostgreSQL and more
 
 - earn an EdX certificate on <i>accessibility</i> - <b>EARNED!</b>
 - learn about and be proficient in cybersecurity
-- 30NitesOfCode monthly challenge by Codédex:
-  - [Check out my progress!](https://www.codedex.io/@andalix/30-nites-of-code)  
-    ![a moving gif showing my light green dragon pet in tamagochi style](https://www.codedex.io/api/petStatus?user=andalix)
